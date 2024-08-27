@@ -1,0 +1,53 @@
+[
+    {
+        "name" : "living easter egg",
+        "unitType": "Civilian",
+		"uniques": ["Can instantly construct a [easter egg] improvement <by consuming this unit>", "Unbuildable", "Will not be displayed in Civilopedia", "Uncapturable"],
+		"movement": 2
+    },
+    {
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "May upgrade to [easter rabbit] through ruins-like effects <hidden from users>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+    {
+        "name" : "easter rabbit",
+        "unitType": "Scout",
+		"uniques": [
+            "Will not be displayed in Civilopedia",
+            "Unbuildable",
+            "Limited to [1] per Civilization",
+            "May Paradrop up to [30] tiles from inside friendly territory",
+            "[2] additional attacks per turn",
+            "[5] Sight",
+            "[4] Range",
+            "Blast radius [3]",
+            "Ranged attacks may be performed over obstacles",
+            "No defensive terrain penalty",
+            "Unable to capture cities",
+            "Unable to pillage tiles",
+            "All healing effects doubled",
+            "Unit will heal every turn, even if it performs an action",
+            "All adjacent units heal [50] HP when healing",
+            "Can see over obstacles",
+            "Can carry [3] [air units] units",
+            "Can carry [3] [Military] units",
+            "Invisible to others",
+            "All tiles cost 1 movement",
+            "May travel on Water tiles without embarking",
+            "Can pass through impassable tiles",
+            "Ignores Zone of Control",
+            "Can enter ice tiles",
+            "May enter foreign tiles without open borders",
+            "Never appears as a Barbarian unit"
+        ],
+		"movement": 7,
+        "strength": 80,
+		"rangedStrength": 80,
+        "attackSound": "missile"
+    }
+]

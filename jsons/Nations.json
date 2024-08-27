@@ -1,0 +1,46 @@
+[
+    {
+        "name" : "Happyland",
+        "leaderName" : "sunshine",
+        "adjective" : "the happy guy",
+        "startBias" : ["coast", "Avoid [Tundra]"],
+        "personality" : "sunshine",
+
+        "startIntroPart1" : "Rendez ma ville heureuse et tuez tout ceux qui me dérange",
+        "startIntroPart2" : "Personne ne sera plus heureux que nous, mon programme est la bonheur",
+
+        "declaringWar" : "Vous osez briser mon bonheur!!!",
+        "attacked" : "honte à vous",
+        "defeated" : "Personne ne sera plus jamais heureux",
+        "introduction" : "Nous n'avons pas besoin de vous pour être heureux",
+
+        "neutralHello" : "Slt!",
+        "hateHello" : "Encore un imbécile",
+
+        "tradeRequest" : "Vos ressources stratégiques sont assez intéressantes",
+
+        "outerColor" : 	[255, 255, 255],
+        "innerColor" : [0, 0, 0],
+        "uniqueName" : "the Happyness",
+        "uniques" : ["[+95 Happiness] [in capital]"],
+        "cities" : [
+            "Happyland",
+            "Bisouland",
+            "Easterland",
+            "Barbiland",
+            "Sunnyland",
+            "Coolland",
+            "Holydayland",
+            "Loveland"
+        ],
+        "spyNames" : [
+            "Lapin de rasgavath 1",
+            "Lapin de rasgavath 2",
+            "Lapin de rasgavath 3",
+            "Lapin de rasgavath 4",
+            "Lapin de rasgavath 5",
+            "Lapin de rasgavath 6",
+            "Lapin de rasgavath 7"
+        ]
+    }
+]

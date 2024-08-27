@@ -1,0 +1,10 @@
+[
+    {
+		"name": "dark easter",
+ 		"uniques": ["Will not be displayed in Civilopedia", "Invisible to non-adjacent units"]
+	},
+    {
+		"name": "easter grow",
+ 		"uniques": ["Will not be displayed in Civilopedia", "This Unit upgrades for free including special upgrades <upon ending a turn in a [easter egg] tile>"]
+	}
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name" : "easter egg spawner",
+        "cost": 0,
+        "isWonder": true,
+        "uniques" : ["[1] free [living easter egg] units appear","All newly-trained [All] units [in all cities] receive the [easter grow] promotion", "All newly-trained [All] units [in all cities] receive the [dark easter] promotion", "Will not be displayed in Civilopedia"],
+        "quote" : "Le bonheur de la nation fera grandire la ville lors de cette interminable fête de paque!!!"
+    }
+]

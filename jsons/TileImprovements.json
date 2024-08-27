@@ -1,0 +1,13 @@
+[
+    {
+        "name" : "easter egg",
+        "terrainsCanBeBuiltOn" : ["Land"],
+        "science" : 2,
+        "culture" : 2,
+        "production" : 2,
+        "food" : 2,
+        "gold" : 2,
+        "faith" : 2,
+        "uniques" : ["Great Improvement", "Removes removable features when built", "Will not be displayed in Civilopedia", "Excluded from map editor", "Unpillagable"]
+    }
+]
