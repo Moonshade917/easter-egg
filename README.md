@@ -1,1 +1,1 @@
-les icon vienne du site flaticon
+les icons viennent du site flaticon
