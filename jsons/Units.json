@@ -1,0 +1,8 @@
+[
+    {
+        "name" : "living easter egg",
+        "unitType": "Civilian",
+		"uniques": ["Can build [easter egg] improvements on tiles"],
+		"movement": 2
+    }
+]
