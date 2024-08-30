@@ -22,7 +22,7 @@
         "outerColor" : 	[255, 255, 255],
         "innerColor" : [0, 0, 0],
         "uniqueName" : "the Happyness",
-        "uniques" : ["[+95 Happiness] [in capital]"],
+        "uniques" : ["[+90 Happiness] [in capital]"],
         "cities" : [
             "Happyland",
             "Bisouland",
